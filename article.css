@@ -85,7 +85,7 @@ img { max-width: 100%; display: block; }
 }
 .hero h1 {
   margin: 0;
-  max-width: 15ch;
+  max-width: 18ch;                  /* two lines for the headline (owner, 25-11-2026) */
   font-size: clamp(2.6rem, 6.5vw, 5.4rem);
   font-weight: 800;
   line-height: 1.02;
